@@ -8,7 +8,10 @@ Three tables are saved in the php database in order to save different informatio
 This web application is built under the LAMP framework.
 
 Note: 
-1. The online registration and admin panel functionalities are the same as those of 'Online-Registration-with-Administration-Panel' webapp, whose source code can be found in BarabaraLee's github. 
-2. See the folder 'OnlineVotingWebAppDemo' for the demonstration of using this webapp.
+1. The purpose of developing this webapp is to facilitate the digital research related to pop trend.
+
+2. The online registration and admin panel functionalities are the same as those of 'Online-Registration-with-Administration-Panel' webapp, whose source code can be found in BarabaraLee's github.
+
+3 See the folder 'OnlineVotingWebAppDemo' for the demonstration of using this webapp.
 
 Linjun Li - Virginia Tech
