@@ -9,7 +9,7 @@ This web application is built under the LAMP framework.
 
 Note: 
 
-1. The purpose of developing this web app is to facilitate a digital research project in study of the popularity of the pop stars.
+1. The purpose of developing this web app is to facilitate a digital research project studying the popularity of the pop stars from different backgrounds.
 
 2. The online registration and admin panel functionalities are the same as those of 'Online-Registration-with-Administration-Panel' web app, whose source code can be found in BarabaraLee's github.
 
