@@ -15,6 +15,6 @@ Note:
 
 3. It is required that each voter can vote for only one musician, and only one time. These requriements are not implemented into the source code considering the possibility of future change of requirements.
 
-4. . See the folder 'OnlineVotingWebAppDemo' for the demonstration of using this webapp.
+4. . See the folder 'OnlineVotingWebAppDemo' for the demonstration of using this webapp, with screenshots.
 
 Linjun Li - Virginia Tech
