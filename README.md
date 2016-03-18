@@ -13,7 +13,7 @@ Note:
 
 2. The online registration and admin panel functionalities are the same as those of 'Online-Registration-with-Administration-Panel' web app, whose source code can be found in BarabaraLee's github.
 
-3. It is required that each voter can vote for only one musician, and only one time. These requriements are not implemented into the source code considering the possibility of future change of requirements.
+3. It is required that each voter can vote for only one musician, and only one time. The requriements are not implemented into the source code considering the possibility of future change of requirements. (One can set up a 'vote_status' column in the 'register_user' table to enforce these requriements.)
 
 4. . See the folder 'OnlineVotingWebAppDemo' for the demonstration of using this web app, with screenshots.
 
