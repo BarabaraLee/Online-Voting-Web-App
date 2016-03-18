@@ -1,0 +1,212 @@
+body {
+	color: #5d546e;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	line-height: 1.3em;
+	background-repeat: repeat-x;
+	background-position: top;
+	height: 50px;
+	margin-top: 0;
+	margin-right: 0;
+	margin-left: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-left: 0;
+}
+#wrapper #main_wrapper #main .right_signup {
+	float: right;
+	width: 430px;
+	position: absolute;
+	left: 523px;
+	top: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 { color: #421c7e; font-weight: normal; }
+h1 { font-size: 48px; margin: 0 0 30px; padding: 5px 0 }
+h2 { font-size: 24px; margin: 0 0 25px; padding: 5px 0; }
+h3 { font-size: 20px; margin: 0 0 20px; padding: 0; }
+h4 { font-size: 18px; margin: 0 0 15px; padding: 0; }
+h5 { font-size: 16px; margin: 0 0 10px; padding: 0;  }
+h6 { font-size: 12px; margin: 0 0 5px; padding: 0; }
+.cleaner { clear: both }
+.h10 { height: 10px }
+.h20 { height: 20px }
+.h30 { height: 30px }
+.h40 { height: 40px }
+.h50 { height: 50px }
+
+.float_l { float: left }
+.float_r { float: right }
+
+#wrapper {
+	width: 962px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 0;
+	padding-right: 9px;
+	padding-bottom: 0;
+	padding-left: 9px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#wrapper #main_wrapper #main .main_notifaction {
+	background-color: #FFFFFF;
+	width: 500px;
+	margin-top: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid #C0C0C0;
+	padding-left: 200px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 100px;
+	-moz-box-shadow: 0px 0px 5px #333333;
+	-webkit-box-shadow: 0px 0px 5px #333333;
+	box-shadow: 0px 0px 5px #333333;
+}
+
+#top {
+	height: 40px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-repeat: repeat-x;
+	padding-bottom: 10px;
+	background-color: #EAE6F1;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #999999;
+	-moz-box-shadow: 0px 0px 5px #333333;
+	-webkit-box-shadow: 0px 0px 5px #333333;
+	box-shadow: 0px 0px 5px #333333;
+}
+#search {
+	float: right;
+	margin-top: 10px;
+}
+#search form {
+	margin: 0;
+	padding: 4px 0;
+	height: 19px;
+	width: 230px;
+	background: url(../images/search_bar.png)  no-repeat
+}
+
+#search .txt_field {
+	float: left;
+	display: block;
+	height: 19px;
+	line-height: 19px;
+	width: 190px;
+	color: #000000;
+	font-size: 11px;
+	padding: 0 5px;
+	font-variant: normal;
+	border: none;	
+	background: none;
+}
+
+#search .sub_btn {
+	float: right;
+	display: block;
+ 	height: 27px;
+	width: 30px;
+	cursor: pointer;
+	border: none;
+	background: none;	
+}
+#main {
+	z-index: 0;
+	height: auto;
+	padding-top: 30px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+#main_wrapper {
+	position: relative;
+	background: url(../images/templatemo_content_middle.png) repeat-y;
+	margin-top: 20px;
+	height: auto;
+}
+
+#main_wrapper span.top {
+	position: absolute;
+	width: 960px;
+	height: 10px;
+	top: -10px;
+	left: 0;
+	background: url(../images/templatemo_content_top.png) no-repeat 
+}
+
+#main_wrapper span.bottom {
+	position: absolute;
+	display: block;
+	width: 960px;
+	height: 10px;
+	bottom: -10px;
+	left: 0;
+	background: url(../images/templatemo_content_bottom.png) no-repeat 
+}
+.col_2 { width: 400px; padding-right: 30px } 
+.col_3 { float: left; width: 290px ; margin-right: 25px }
+.col_4 { float: left; width: 215px; margin-right: 20px }
+.col_b { width: 700px }
+.col_l { margin: 0 }
+
+#contact_form {
+	padding: 0;
+	width: 430px;
+}
+
+#contact_form form { 
+	margin: 0px; 
+	padding: 0px; 
+}
+
+#contact_form form .input_field {
+	width: 270px;
+	height: 25px;
+	padding: 5px;
+	color: #333333;
+	border: 1.5px solid #808080;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	margin-top: 5px;
+	font-weight: bold;
+	background-color: #FFFFFF;
+}
+
+#contact_form form label {
+	display: block;
+	width: 100%;
+	margin-right: 12px;
+	font-size: 14px;
+	color: #666666;
+	font-weight: bold;
+}
+
+#contact_form form textarea { 
+	width: 420px; 
+	height: 200px; 
+	padding: 5px; 
+	color: #222;  
+	background: #f4f6f9; 
+	border: 1px solid #d3dae3; 
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	margin-top: 5px;
+}
+
+#contact_form form .submit_btn { 
+	padding: 5px 14px; 
+	color: #222;  
+	background: #f4f6f9; 
+	border: 1px solid #d3dae3; 
+	font-size:14px; 
+	margin: 10px 0px;
+}
+.float_l { float: left }
+.float_r { float: right }
