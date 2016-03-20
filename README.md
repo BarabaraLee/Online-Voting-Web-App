@@ -11,7 +11,7 @@ Note:
 
 1. The purpose of developing this web app is to facilitate a digital research project studying the popularity of the pop stars from different backgrounds. (Justin Bieber and Shawn Mendes are from the same country, and we should replace one of the two with a pop singer from another country or even another continent.)
 
-2. The online registration and admin panel functionalities are the same as those of 'Online-Registration-with-Administration-Panel' web app, whose source code can be found in BarabaraLee's github.
+2. The online registration and admin panel functionalities are the same as those of 'Online-Registration-with-Administration-Panel' web app, whose source code can also be found in BarabaraLee's github.
 
 3. It is required that each voter can vote for only one musician, and only one time. The requriements are not implemented into the source code considering the possibility of future change of requirements. (One can set up a 'vote_status' column in the 'register_user' table to enforce the mentioned requriements.)
 
